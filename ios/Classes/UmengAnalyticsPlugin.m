@@ -1,4 +1,3 @@
-#import "UMMobClick/MobClick.h"
 #import "UmengAnalyticsPlugin.h"
 
 @implementation UmengAnalyticsPlugin
